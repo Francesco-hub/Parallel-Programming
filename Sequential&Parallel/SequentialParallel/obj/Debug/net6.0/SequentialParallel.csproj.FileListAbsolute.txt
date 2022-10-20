@@ -1,0 +1,15 @@
+R:\Visual Studio Projects\SequentialParallel\SequentialParallel\obj\Debug\net6.0\SequentialParallel.csproj.AssemblyReference.cache
+R:\Visual Studio Projects\SequentialParallel\SequentialParallel\obj\Debug\net6.0\SequentialParallel.GeneratedMSBuildEditorConfig.editorconfig
+R:\Visual Studio Projects\SequentialParallel\SequentialParallel\obj\Debug\net6.0\SequentialParallel.AssemblyInfoInputs.cache
+R:\Visual Studio Projects\SequentialParallel\SequentialParallel\obj\Debug\net6.0\SequentialParallel.AssemblyInfo.cs
+R:\Visual Studio Projects\SequentialParallel\SequentialParallel\obj\Debug\net6.0\SequentialParallel.csproj.CoreCompileInputs.cache
+R:\Visual Studio Projects\SequentialParallel\SequentialParallel\bin\Debug\net6.0\SequentialParallel.exe
+R:\Visual Studio Projects\SequentialParallel\SequentialParallel\bin\Debug\net6.0\SequentialParallel.deps.json
+R:\Visual Studio Projects\SequentialParallel\SequentialParallel\bin\Debug\net6.0\SequentialParallel.runtimeconfig.json
+R:\Visual Studio Projects\SequentialParallel\SequentialParallel\bin\Debug\net6.0\SequentialParallel.dll
+R:\Visual Studio Projects\SequentialParallel\SequentialParallel\bin\Debug\net6.0\SequentialParallel.pdb
+R:\Visual Studio Projects\SequentialParallel\SequentialParallel\obj\Debug\net6.0\SequentialParallel.dll
+R:\Visual Studio Projects\SequentialParallel\SequentialParallel\obj\Debug\net6.0\refint\SequentialParallel.dll
+R:\Visual Studio Projects\SequentialParallel\SequentialParallel\obj\Debug\net6.0\SequentialParallel.pdb
+R:\Visual Studio Projects\SequentialParallel\SequentialParallel\obj\Debug\net6.0\SequentialParallel.genruntimeconfig.cache
+R:\Visual Studio Projects\SequentialParallel\SequentialParallel\obj\Debug\net6.0\ref\SequentialParallel.dll
